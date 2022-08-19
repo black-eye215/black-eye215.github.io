@@ -180,7 +180,7 @@
 
         <!--===== FOOTER =====-->
         <footer class="footer">
-            <p class="footer__title">Marlon</p>
+            <p class="footer__title">Vinay</p>
             <div class="footer__social">
                 <a href="https://api.whatsapp.com/send/?phone=919347628359" class="footer__icon"><i class='bx bxl-whatsapp' ></i></a>
                 <a href="https://www.instagram.com/vinay_chowdary_21/" class="footer__icon"><i class='bx bxl-instagram' ></i></a>
